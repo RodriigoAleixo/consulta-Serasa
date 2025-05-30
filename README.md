@@ -21,3 +21,6 @@ Salvar o resultado da consulta em PDF
 
 Nomear o arquivo com o nome do cliente.
 
+👨‍💻 Autor Rodrigo de Lima Aleixo 
+💼 [LinkedIn](https://www.linkedin.com/in/rodrigo-de-lima-aleixo-850b1720b/)
+✉️ E-mail: *rodriigoaleixo@gmail.com*
